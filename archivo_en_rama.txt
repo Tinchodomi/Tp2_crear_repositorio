@@ -1,0 +1,6 @@
+ Creando Branchs
+o Crear una Branch
+o Realizar cambios o agregar un archivo
+o Subir la Branch 
+
+Creo una rama y agrego un archivo que pertenece a esa rama
