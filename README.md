@@ -1,2 +1,18 @@
 # Tp2_crear_repositorio
 Crear un repositorio - • Agregando un Archivo - Creando Branchs 
+
+2) Realizar la siguiente actividad:
+• Crear un repositorio.
+o Dale un nombre al repositorio.
+o Elije el repositorio sea público.
+o Inicializa el repositorio con un archivo.
+• Agregando un Archivo
+o Crea un archivo simple, por ejemplo, "mi-archivo.txt".
+o Realiza los comandos git add . y git commit -m "Agregando mi-archivo.txt"
+en la línea de comandos.
+o Sube los cambios al repositorio en GitHub con git push origin main (o el
+nombre de la rama correspondiente).
+• Creando Branchs
+o Crear una Branch
+o Realizar cambios o agregar un archivo
+o Subir la Branch 
